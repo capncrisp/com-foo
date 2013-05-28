@@ -1,3 +1,10 @@
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
 .htaccess
 wp-config.php
 wp-content/uploads/
